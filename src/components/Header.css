@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+}
+
+.list-group {
+  padding: 30px;
+  justify-content: space-between;
+}
+
+.frame {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
